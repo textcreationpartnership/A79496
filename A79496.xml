@@ -1,0 +1,367 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Separatists answer to the Anabaptists arguments concerning baptism. Or, The answer of Samuel Chidley to John Spilsbury, concerning the point in difference.</title>
+            <author>Chidley, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79496</idno>
+            <idno type="STC">Wing C3842</idno>
+            <idno type="STC">Thomason E643_22</idno>
+            <idno type="STC">ESTC R206014</idno>
+            <idno type="EEBO-CITATION">99865222</idno>
+            <idno type="PROQUEST">99865222</idno>
+            <idno type="VID">117459</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79496)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117459)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 99:E643[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Separatists answer to the Anabaptists arguments concerning baptism. Or, The answer of Samuel Chidley to John Spilsbury, concerning the point in difference.</title>
+                  <author>Chidley, Samuel.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴ B⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>J. S. --  (John Spilsbery).</term>
+               <term>Baptism --  Early works to 1800.</term>
+               <term>Separatists --  England --  Early works to 1800.</term>
+               <term>Anabaptists --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117459:1" rendition="simple:additions"/>
+            <p>The <hi>SEPARATISTS</hi> ANSWER To the <hi>ANABAPTISTS</hi> ARGUMENTS Concerning BAPTISM.</p>
+            <p>OR, The <hi>Anſwer</hi> of SAMUEL CHIDLEY to JOHN SPILSBURY, concerning the Point in difference.</p>
+            <q>
+               <bibl>Pſal. 116.16.</bibl>
+               <p>O JEHOVAH, ſurely I am thy ſervant, I am thy ſervant, and the ſon of thine handmaid.</p>
+            </q>
+            <p>LONDON, Printed by <hi>J. C.</hi> 1651.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:117459:2"/>
+            <pb facs="tcp:117459:2"/>
+            <head>The EPISTLE To the READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His Anſwer to M. <hi>Spilsbury</hi> hath been of about ten yeers ſtanding; but he having made no Reply, I publiſh it. And although M <hi>Spilsbury</hi> is not of my judgement in all the Fundamental points of Religion, and I op<g ref="char:EOLhyphen"/>poſe him in thoſe things wherein I judge he ſwerveth from the rule of righteouſneſs, and particularly in this; yet doubt not but that we are both of one minde for the good of the
+<pb facs="tcp:117459:3"/>
+Commonwealth, and ſhall be readie ſtill to joyn heart and hand againſt the Common Ad<g ref="char:EOLhyphen"/>verſarie. And when the time cometh that God cauſeth the Nations to <hi>beat their ſwords into plow-ſhares, and their ſpears into pruning hooks,</hi> that <hi>nation ſhall not lift ſword againſt nation, neither ſhall they learn war any more;</hi> God will put an end to the Controverſies amongſt men in matters of Religion, and <hi>God ſhall be one, and his Name one.</hi> In the mean time, what light the Lord hath made known unto me, I hold it my dutie to diſcover, as I finde a ſeaſonable opportunitie.</p>
+            <closer>
+               <signed>S. C.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117459:3"/>
+            <head>The SEPARATISTS ANSWER To the ANABAPTISTS ARGUMENTS.</head>
+            <div type="Anabaptist_argument">
+               <head>The Anabaptiſts Arguments.</head>
+               <p>THe Church-ſtate being falſe and An<g ref="char:EOLhyphen"/>tichriſtian, it thus follows: To be<g ref="char:EOLhyphen"/>lieve a true external Church-ordinance in the Adminiſtration, where there is neither tru Church, Member Power, Miniſter, nor Subject; this we can<g ref="char:EOLhyphen"/>not do, without ſome Rule in the Word of
+<pb facs="tcp:117459:4"/>
+God for to build our faith upon.</p>
+            </div>
+            <div type="Separatist_answer">
+               <pb facs="tcp:117459:3"/>
+               <head>The Separatiſts Anſwer.</head>
+               <p>
+                  <seg rend="decorInit">L</seg>Et Gods Word be mans Rule for every action: for it mea<g ref="char:EOLhyphen"/>ſureth all things, and yet is not meaſured; it bindeth all things, yet is not bound.</p>
+               <p>In <hi>Iſraels</hi> deep Apoſtacie, though there was neither true Church, member, power, Miniſter, nor ſubject amongſt them when Cir<g ref="char:EOLhyphen"/>cumciſion was by them adm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>niſtred; yet thoſe that received Circumciſion in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat Apoſtacie, and returned &amp; kept the Paſſeover in <hi>Judah,</hi> were not commanded to be circumciſe again: Therefore, the Circumciſion ſo received A<g ref="char:EOLhyphen"/>poſtacie, did ſtand in force as an Ordinanc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.
+<pb facs="tcp:117459:4"/>
+God. And though the evil of the manner of it was not commended but condemned, and to be repented of; yet the thing it ſelf was not commanded to be repeated again. So it ap<g ref="char:EOLhyphen"/>peareth, that the holy Ordinance of Circumci<g ref="char:EOLhyphen"/>ſion was not worn out by thoſe Apoſtates, but was effectual either to the ſalvation or damna<g ref="char:EOLhyphen"/>tion of every one that received it.</p>
+               <p>And ſurely Gods Ordinances are as durable now under the Goſpel, as they were before and under the Law: for Chriſt was not inferiour to any. He that was greater then <hi>Moſes,</hi> or any one of the Patriarchs or Prophets, ſaid he was not worthy to ſtoop down to unlooſe the latchet of Chriſts ſhooes, <hi>Mark</hi> 1.7.</p>
+            </div>
+            <div type="Anabaptist_argument">
+               <head>The Anabaptiſts Arguments.</head>
+               <p>And we dare not believe that Anti<g ref="char:EOLhyphen"/>chriſt could either ſteal or uſurp an Or<g ref="char:EOLhyphen"/>dinance of God: we dare not impute ſuch folly to Chriſt, as to judge him ſo un<g ref="char:EOLhyphen"/>faithful as to ſuffer ſuch an Ordinance of Baptiſm to be ſtollen out of Gods Trea<g ref="char:EOLhyphen"/>ſury.</p>
+            </div>
+            <div type="Separatist_answer">
+               <head>The Separatiſts Anſwer.</head>
+               <p>And we may and dare believe that the <hi>Phi<g ref="char:EOLhyphen"/>liſtims</hi> ſtole away Gods Ark<note n="*" place="margin">1 Sam. 5.1, 2.</note>; and that the holy Veſſels (belonging to Gods houſe) were taken away with Gods people into <hi>Babylon</hi>
+                  <note n="*" place="margin">Jer. 42</note>, though they (that laid ſuch ſacrilegious hands upon them) had no right unto them; yet did uſe them or rather abuſe them, to their own deſtruction.</p>
+               <p>And if Baptiſm cannot be uſurped, or ſtollen out of Gods treaſury, th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n <hi>Simon Magus,</hi> after he was baptized, <hi>Act.</hi> 8.13. left it behind him when he departed out of the treaſure-city.</p>
+               <p>But I ſuppoſe that Apoſtates who apoſtate now do not leave their Baptiſm behinde them, neither have they right unto it: yet it ſhall be ſo effectual, that it ſhall riſe up in judgement againſt them.</p>
+            </div>
+            <div type="Anabaptist_argument">
+               <head>The Anabaptiſts Arguments.</head>
+               <p>But o<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>a<g ref="char:EOLhyphen"/>ry, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Antichriſt hath counterfeited a S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ate or Church of Chriſt, and the Pow<g ref="char:EOLhyphen"/>er and Laws of
+<pb facs="tcp:117459:4"/>
+Chriſt; a Goſpel and Miniſtery: even ſo hath he counterfeit<g ref="char:EOLhyphen"/>ed the Baptiſm of Chriſt, to deceive the people.</p>
+               <p>Or elſe why ſhould he have all the reſt from himſelf, and this one Ordinance from the Lord, who hath diſclaimed all Communion with him.</p>
+            </div>
+            <div type="Separatist_answer">
+               <head>The Separatiſts Anſwer.</head>
+               <p>And although <hi>Jeroboam</hi> and his people counterfeited a State or Church of God, and though his Prieſts counterfeited, alleadging that their Power and Law was the Power and Law of God: and though his Prophets coun<g ref="char:EOLhyphen"/>terfeited alſo, affirming that their Goſpel and
+<pb facs="tcp:117459:4"/>
+Miniſtery was the Goſpel and Miniſtery of God: Yet ſtill Circumciſion was Gods Or<g ref="char:EOLhyphen"/>dinance, wherewith they deceived the people, even as the whoriſh woman doth her friends and lovers with the <hi>ſweet ſtollen waters,</hi> and <hi>pleaſant hidden bread</hi> which he hath.</p>
+               <p>But as the Apoſtate; of <hi>Iſrael</hi> (whoſe communion God diſclaimed) did mix their own Traditions with Gods Precepts and their Ordinances with Gods Ordinances; and ſo ſet up their pillars by Gods pillars, and their poſts by Gods poſts: ſo have theſe locuſts done which are now; whoſe communion God doth alſo diſclaim: which though they have and hold a general profeſſion of Chriſt, and draw neer unto God with their mouthes, yet they are counterfeits, (like the apoſtate <hi>Iſra<g ref="char:EOLhyphen"/>elites</hi>) their hearts are far from him.</p>
+            </div>
+            <div type="Anabaptist_argument">
+               <head>The Anabaptiſts Arguments.</head>
+               <p>And that he is a fore-runner of Chriſt, as <hi>Joh. 10.8.</hi> it is evident thus, In his taking ſuch ſub<g ref="char:EOLhyphen"/>jects to adminiſter his Ordinance upon, that are not capable of it, nor able to reſiſt him; being young infants, which there is neither pre<g ref="char:EOLhyphen"/>cept nor example for.</p>
+            </div>
+            <div type="Separatist_answer">
+               <head>The Separatiſts Anſwer.</head>
+               <p>And though <hi>Jeroboam</hi> and his Crew were in a manner Antichriſtians, and <hi>forſakers of God;</hi> yet it was not becauſe they circumciſed young infants but becauſe they were <hi>reple<g ref="char:EOLhyphen"/>niſhed from the eaſt, and were ſoothſayers, like the Philiſtims, and pleaſed themſelves in the children of ſtrangers,</hi> Iſa. 2.6. So theſe Antichriſtians are not Antichriſtians for baptizing Infants, but becauſe they are apo<g ref="char:EOLhyphen"/>ſtatized and degenerated from the Faith and Order of Chriſt, and baptize ſuch Infants that are the children of whoremongers and adul<g ref="char:EOLhyphen"/>terers, thieves and murderers, and all ſorts of wicked perſons.</p>
+               <p>And the Prophet <hi>Iſaiah</hi> did not deſire the Lord <hi>not to forgive</hi> the apoſtate <hi>Iſraelites</hi> becauſe they circumciſed young children; for that was the Ordinance of God, <hi>Gen.</hi> 17.10. which if they had done in the right way and manner, it would have been pleaſing to God,
+<pb facs="tcp:117459:5"/>
+verſ. 11. but the Prophet ſaith, <hi>Becauſe their land is full of idols, and they worſhip the work of their own hands, that which their own fingers made; and the mean man bow<g ref="char:EOLhyphen"/>eth down, and the great man humbleth himſelf: therefore forgive them not,</hi> Iſa. 2.8, 9. The like may be ſaid concerning theſe Antichriſtians. And though there be neither precept nor example in the Scripture, that theſe Antichriſtians ſhould baptize, no more then the Idolaters in <hi>Jeroboams</hi> time had to circumciſe; yet the Church of God hath as much warrant to adminiſter the Signe and Seal of the righ<g ref="char:EOLhyphen"/>teouſneſs of faith upon the infants of believers, even as well as the Church had to adminiſter the Seal upon their infants in former time. But as they had no ground to circumciſe all Nati<g ref="char:EOLhyphen"/>ons or ſeeds, or any apoſtate, though the off<g ref="char:EOLhyphen"/>ſpring of <hi>Abraham,</hi> but thoſe that were the ſeed in Covenant with God <hi>Gen.</hi> 17.14. ſo we have no warrant to baptize all nations but be<g ref="char:EOLhyphen"/>lievers and their holy ſeed, <hi>Mat.</hi> 28.18. <hi>Mar.</hi> 16.16. That the infants of believing parents are ſo, is plain, becauſe they are not out of the <hi>New Jeruſalem;</hi> they are not ranked with dogs, <hi>&amp;c.</hi> as in <hi>Rev.</hi> 22.11, 15. but are to be eſteemed <hi>holy; and written among the li<g ref="char:EOLhyphen"/>ving in Jeruſalem,</hi> verſ. 14. <hi>Iſa.</hi> 65.23. and 4.3. Such holy infants, that moſt heavenly Prophet, which was like unto <hi>Moſes,</hi> defended by his gracious hand, <hi>Exod.</hi> 14. and by his power admidiſtred Baptiſm upon them and their parents, 1 <hi>Cor.</hi> 10.1, 2. before the Law was given in Mount <hi>Sinai:</hi> and ſuch are ſan<g ref="char:EOLhyphen"/>ctified in their life, bleſſed in their death, and ſhall be alſo glorified in their reſurrection: for Chriſt is <hi>the ſame to day</hi> as he was <hi>yeſterday,</hi> and ſo he will be <hi>for ever.</hi>
+                  <note place="margin">Hebr. 13.8.</note> He hath died for
+<pb facs="tcp:117459:5"/>
+them, and hath given them eternal life, and hath declared that they are part of the furni<g ref="char:EOLhyphen"/>ture of his Fathers Kingdom<note n="*" place="margin">Luke 18.16.</note>: he hath en<g ref="char:EOLhyphen"/>tered into Covenant with them<note n="†" place="margin">Deut. 29.10, 11, 12.</note>, and will faithfully perform the ſame<note n="*" place="margin">Rev. 21.3, 4, 5, 6, 7.</note>.</p>
+            </div>
+            <div type="Anabaptist_argument">
+               <head>The Anabaptiſts Arguments.</head>
+               <p>And whereas he bears the people in hand that the pro<g ref="char:EOLhyphen"/>miſe is made to be<g ref="char:EOLhyphen"/>lievers and their ſeed, and taking his example from Circumciſion; both which, rightly conſi<g ref="char:EOLhyphen"/>dered, will ſtrike him to the heart.</p>
+               <p>Firſt, if he mean the promiſe in the ſecond of the <hi>Acts, verſ. 39.</hi> as common<g ref="char:EOLhyphen"/>ly he doth; it is not ſaid, The promiſe is made to believers and their ſeed; but, <hi>The promiſe is to you and to your children, and to all that are afar off, even as many as the Lord our God ſhall call:</hi> implying, that the promiſe be<g ref="char:EOLhyphen"/>longs to none, but one<g ref="char:EOLhyphen"/>ly ſuch as the Lord ſhall call: and for ſuch children, ſee <hi>Acts 13.32, 33. Acts 3.25.</hi>
+               </p>
+            </div>
+            <div type="Separatist_answer">
+               <head>The Separatiſts Anſwer.</head>
+               <p>And it is evident that <hi>the promiſe is made to believers and their ſeed,</hi> as it hath been in the days of old<note n="*" place="margin">Acts 2.39.</note>: and therefore ſeeing that Cir<g ref="char:EOLhyphen"/>cumciſion and Baptiſm are all one in effect<note n="*" place="margin">Col. 2.11, 12, 13.</note> though they differ in the elements; as the In<g ref="char:EOLhyphen"/>fants of believing parents were to receive Cir<g ref="char:EOLhyphen"/>cumciſion in the days of <hi>Abraham,</hi> ſo the In<g ref="char:EOLhyphen"/>fants of believing parents are to receive Bap<g ref="char:EOLhyphen"/>tiſm in the days of Chriſt: But as God did not require the Infants of both unbelieving parents to be circumciſed, no more hath he required ſuch to be baptized now. And if the right con<g ref="char:EOLhyphen"/>ſideration of this will ſtrike Antichriſt to the heart, even ſo let it be: I wiſh it may hit home.</p>
+               <p>And the ſame promiſe which is declared to be made to the <hi>children of the prophets,</hi> and of <hi>the covenant which God made with our fathers,</hi> Act. 13.32, 33. &amp; 3.25. is declared in <hi>Act.</hi> 2.39. to appertain unto their <hi>childrens children,</hi> according to the words in <hi>Iſa.</hi> 69.21 <hi>As for me, this is my covenant with them, ſaith the Lord: My Spirit that is upon thee and my words which I have put in thy mouth ſhall not depart out of thy mouth, nor out of the mouth of thy [ſeed,] nor out of the mouth of thy [ſeeds ſeed] ſaith the Lord, from henceforth and for ever.</hi> And this promiſe appertaineth unto none but <hi>thoſe whom the Lord our God doth call.</hi> That the Lord our God doth call the Infants of belie<g ref="char:EOLhyphen"/>vers with themſelves, is apparent, <hi>Deut.</hi> 4.37. &amp; 7.6. The work which he calleth them to, is to <hi>keep his covenant,</hi> Gen. 17.14.</p>
+            </div>
+            <div type="Anabaptist_argument">
+               <pb facs="tcp:117459:6"/>
+               <head>The Anabaptiſts Arguments.</head>
+               <p>Again the promiſe is the Covenant or Promiſe of Grace concerning eternal life: and to all ſuch as God doth enter in<g ref="char:EOLhyphen"/>to Covenant with he muſt upon his faith<g ref="char:EOLhyphen"/>fulneſs perform the ſame. Now if the promiſe belong to believers and their ſeed, without exce<g ref="char:EOLhyphen"/>ption; then all ſuch ſeed muſt be ſaved, or elſe God doth not perform his promiſe: which to affirm, is Blaſphemy.</p>
+            </div>
+            <div type="Separatist_answer">
+               <head>The Separatiſts Anſwer.</head>
+               <p>Chriſt Jeſus (that ſpotleſs Lamb) is ſaid to <hi>take away the ſins of the world</hi>
+                  <note n="*" place="margin">Joh. 1.29.</note>; I hope you will not ſay, any other world then the Church. <hi>Chriſt taketh away the ſins of his Church;</hi> yea, of his viſible Church<note n="*" place="margin">Rev. 1.5.</note>. If any apoſtate from thence, Chriſt hath not bound himſelf to ſave them, unleſs they return<note n="*" place="margin">Amos 4.11. Jer. 3.7, 8.</note>. Yet he perform<g ref="char:EOLhyphen"/>eth his promiſe to his own Church<note n="†" place="margin">Iſa. 4.2, 6.</note>; and thoſe that do abide therein, are to be eſteemed holy<note n="*" place="margin">Verſ. 3</note>, and that their names are written in the <hi>book of life of the Lamb which was ſlain from the foundation of the world.</hi> And Chriſt taketh away the ſins of the world no otherwiſe, but as they are of the number of his Church: for time hath been, when all the world was the Church, and the Church was the world; &amp; then was the whole world redeemed, being the Church of Chriſt; ſo he <hi>reconciled the ſame to himſelf.</hi> And as the Infants of believers have been viſi<g ref="char:EOLhyphen"/>ble believers, as the body of Chriſt, ſo they are ſtill: for Chriſt is no changeling; his Covenant which he hath made with them and their ſeed, is <hi>an everlaſting Covenant,</hi> that he <hi>will be a God unto them for ever:</hi> and <hi>bleſſed are the people whoſe God is the Lord. But if any draw back,</hi> the Lord hath teſtified that his <hi>ſoul ſhall have no delight in them.</hi>
+               </p>
+            </div>
+            <div type="Anabaptist_argument">
+               <head>The Anabaptiſts Arguments.</head>
+               <p>But now the ſpiri<g ref="char:EOLhyphen"/>tual ſeed poſſeſſeth the place. So <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> and <hi>Sarah</hi> typed out Chriſt and his Church, <hi>Gal. 4.22, 31. Iſa. 51.1, 2.</hi>
+               </p>
+            </div>
+            <div type="Separatist_answer">
+               <head>The Separatiſts Anſwer.</head>
+               <p>And though the Infants of believers are ge<g ref="char:EOLhyphen"/>nerated and have bodies as well as ſpirits, yet they are the Lords ſpiritual ſeed, regenerated by his Spirit, as well as thoſe which profeſs faith verbally, and yeeld actual obedience vi<g ref="char:EOLhyphen"/>ſibly. Yea, the Infants of believing parents are in as good an eſtate as the greateſt and holieſt viſible profeſſor of Chriſt, and are the true ſeed and children of light, as well as <hi>Levi,</hi> which paid Tythes in the loyns of <hi>Abraham, Heb.</hi> 7.9.</p>
+            </div>
+            <div type="Anabaptist_argument">
+               <pb facs="tcp:117459:6"/>
+               <head>The Anabaptiſts Arguments.</head>
+               <p>And all the ſeed of this husband and wife are to be bapti<g ref="char:EOLhyphen"/>zed as ſoon as they are born.</p>
+            </div>
+            <div type="Separatist_answer">
+               <head>The Separatiſts Anſwer.</head>
+               <p>Now ſeeing that the Infants of believing parents were members of the Church of God, and circumciſed by Gods appointment, as well as their parents; the Infants of believers have as great a priviledge now: for Gods hand is not ſhortened. But let none preſume to ſay that all the ſeed of Chriſt are to be baptized ſo ſoon as they are born, unleſs they could or would prove it: for perſons may have right to an Ordinance, and yet through ſome occaſions and reaſons may be hindered from it. But there is a time for all things.</p>
+            </div>
+            <div type="Anabaptist_argument">
+               <head>The Anabaptiſts Arguments.</head>
+               <p>And ſuch are one<g ref="char:EOLhyphen"/>ly the ſeed of <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> in the Goſpel-ſence; as <hi>Rom. 9.7, 8. Gal. 4.22, 23, 28. Gal. 3.16, 17, 18.</hi>
+               </p>
+            </div>
+            <div type="Separatist_answer">
+               <head>The Separatiſts Anſwer.</head>
+               <p>The Goſpel ſheweth that <hi>believers are the children of Abraham, even as Iſaac was:</hi> therefore they have the ſame priviledges, which <hi>Iſaac</hi> had; and their Infants alſo (upon the ſame ground) have as large and precious pro<g ref="char:EOLhyphen"/>miſes and priviledges as <hi>Iſaac</hi>'s Infants had. But <hi>Iſaac</hi>'s Infants had right to the ſigne and ſeal of the righteouſneſs of faith: Therefore the Infants of all believing parents have right to the ſigne and ſeal of the righteouſneſs of faith alſo.</p>
+            </div>
+            <div type="Anabaptist_argument">
+               <head>The Anabaptiſts Arguments.</head>
+               <p>And we muſt have the Goſpel to expound to us the Law: and ſuch as the Goſpel ſets forth to be the chil<g ref="char:EOLhyphen"/>dren of <hi>Abraham</hi> the ſeed of the promiſe to whom the Covenant belongs; ſuch onely muſt have the Seals, and none elſe. We are not to put the King of heaven's Great Seal to a blank.</p>
+            </div>
+            <div type="Separatist_answer">
+               <head>The Separatiſts Anſwer.</head>
+               <p>And ſeeing that <hi>the teſtimony is bound up, and the Law ſealed among the diſciples</hi>
+                  <note n="*" place="margin">Iſa. 8.16.</note>, we ought to walk by the light of the ſame<note n="*" place="margin">Verſ. 20.</note>; which declareth, that believers and their off<g ref="char:EOLhyphen"/>ſpring are in the Covenant of <hi>Abraham;</hi> and to ſuch onely the Seals of the Covenant do appertain, and to none elſe: for we are not to put the King of heaven's Great Seal unto a blank.</p>
+            </div>
+            <div type="Anabaptist_argument">
+               <pb facs="tcp:117459:6"/>
+               <head>The Anabaptiſts Arguments.</head>
+               <p>As we are all born
+<pb facs="tcp:117459:7"/>
+children of wrath we muſt have ſome bet<g ref="char:EOLhyphen"/>ter evidence then the Popiſh conceit of the faith of others, to in<g ref="char:EOLhyphen"/>right us into Gods holy things; which nothing can inright us to, but onely our own faith in Chriſt.</p>
+            </div>
+            <div type="Separatist_answer">
+               <pb facs="tcp:117459:6"/>
+               <head>The Separatiſts Anſwer.</head>
+               <p>But as the Infants of believers are all the
+<pb facs="tcp:117459:7"/>
+children of wrath by nature; ſo, on the con<g ref="char:EOLhyphen"/>trary, they are juſtified by Gods free grace in Jeſus Chriſt: which could not be, if they were as heathens ſtill in the world, which Chriſt would not pray for, much leſs die for. But Chriſt prayed for the Infants of believers: Therefore he died for them and therefore they are not to be eſteemed blanks, but may lawfully be ſealed: for where the inviſible ſeal of the holy Spirit of promiſe may lawfully be judged to be, there may the viſible ſeal be applied; for the ſubjects thereof have right thereunto, by vertue of Gods everlaſting Covenant made with <hi>Abraham</hi> and his ſeed, and all believers and their ſeed for ever.</p>
+            </div>
+            <div type="Anabaptist_argument">
+               <head>The Anabaptiſts Arguments.</head>
+               <p>And if we will follow Circumciſion, we muſt have the like command as was for that: and ſo we have for the bapti<g ref="char:EOLhyphen"/>zing of believers, but never for Infants.</p>
+            </div>
+            <div type="Separatist_answer">
+               <head>The Separatiſts Anſwer.</head>
+               <p>And foraſmuch as the Infants of believing parents cannot be taxed with actual ſin, or any ſin at all, any more then their parents; let us not doubt then but that they are ſpiritually holy as well as their parents, and have right unto Baptiſm, as well as ſuch holy &amp; obedient Infants had right to Circumciſion of old, which was the ſame in effect with our Baptiſm, and grounded upon the ſame everlaſting Promiſe or Covenant. So likewiſe Chriſt gave a gene<g ref="char:EOLhyphen"/>ral Commiſſion to his Apoſtles, that they ſhould <hi>make all nations diſciples, and baptize them into the Name,</hi> &amp;c. and declared, that <hi>he that believeth and is baptized, ſhall be ſa<g ref="char:EOLhyphen"/>ved; and he that believeth not, ſhall be damned.</hi> See, here is the Condition and the Promiſe: The Condition is Faith and Baptiſm; the Promiſe is Salvation; <hi>And he that belie<g ref="char:EOLhyphen"/>veth not ſhall be damned.</hi> So that it is plain, if no Faith, no Salvation: and there is in a ſpi<g ref="char:EOLhyphen"/>ritual ſence but two ways for all mankinde; which two ways are different, and in which are two ſorts of perſons of ſundry conditions.
+<pb facs="tcp:117459:7"/>
+All thoſe that are within Gods Covenant,<note place="margin">Matth. 13.14. Rev. 20 14, 15. and 22.14, 15.</note> are within the <hi>new Jeruſalem,</hi> and have right un<g ref="char:EOLhyphen"/>to Chriſt that tree of life, and all things therein with him. That the Infants of believing parents are in this holy and happie eſtate, hath been proved already by the Scripture; and therefore it is evident &amp; apparent, that they are the right ſubjects of Baptiſm; included in the Commiſſi<g ref="char:EOLhyphen"/>on for Baptiſm as really, as the Infants of the faithful in the days of old were in the Com<g ref="char:EOLhyphen"/>miſſion for Circumciſion. Therefore it is better for us to magnifie the mighty power of God by which the Infants of believers were bapti<g ref="char:EOLhyphen"/>zed in the days of <hi>Moſes,</hi>
+                  <note place="margin">1 Cor. 10.1, 2.</note> then to deny them Baptiſm now in the days of the Meſſiah who never came to take away any priviledge which of right belonged to ſuch Infants, but to plant as great in ſtead thereof.</p>
+            </div>
+            <div type="Anabaptist_argument">
+               <head>The Anabaptiſts Arguments.</head>
+               <pb facs="tcp:117459:7"/>
+               <p>God made a Cove<g ref="char:EOLhyphen"/>nant with <hi>Abraham</hi> and his ſeed; of which Circumciſion was a ſeal. This Covenant was typical, and ſo was <hi>Abraham</hi> and his ſeed. The Covenant had two parts, inclu<g ref="char:EOLhyphen"/>ding two inheritan<g ref="char:EOLhyphen"/>ces, unto which were two heirs, <hi>Iſaac</hi> and <hi>Iſhmael,</hi> otherwiſe the ſpiritual &amp; car<g ref="char:EOLhyphen"/>nal ſeed of <hi>Abraham.</hi> The one part of the Covenant typed out a temporal inheritance as the land of <hi>Cana<g ref="char:EOLhyphen"/>an;</hi> and Circumciſi<g ref="char:EOLhyphen"/>on
+<pb facs="tcp:117459:8"/>
+ſealed this to all the carnal ſeed, as well as the ſpiritual. The other part typed out a heavenly <hi>Ca<g ref="char:EOLhyphen"/>naan,</hi> or ſpiritual in<g ref="char:EOLhyphen"/>heritance; and Cir<g ref="char:EOLhyphen"/>cumciſion ſealed this to all the ſpiritual ſeed.</p>
+            </div>
+            <div type="Separatist_answer">
+               <pb facs="tcp:117459:7"/>
+               <head>The Separatiſts Anſwer.</head>
+               <p>
+                  <note place="margin">Gen: 17.7.</note>God made a Covenant with <hi>Abraham</hi> and his ſeed, that he would be a God unto them for ever. This Covenant was ſubſtantial, and never to have an end: Circumciſion was a Seal of this moſt glorious Covenant; and Baptiſm is the Seal of it now. This Covenant was not two, but one, though Godlineſs had then the promiſe of this life, and of that which is to come. Apoſtates had nothing to do with this Covenant in their Apoſtacie though they were the ſeed of <hi>Abraham</hi> according to the fleſh; Circumciſion ſealed unto them neither ſpiritual bleſſings nor earthly favours, but rather confu<g ref="char:EOLhyphen"/>ſion, deſtruction, and damnation. Yet this Or<g ref="char:EOLhyphen"/>dinance of God, as it was in it ſelf, was not without effect, no more then the Baptiſm which <hi>Judas</hi> and <hi>Simon Magus</hi> received. Therefore, that Circumciſion ſealed up the land of <hi>Canaan</hi> to the carnal ſeed is denied: for many of them had <hi>no inheritance in the land of Canaan:</hi>
+                  <pb facs="tcp:117459:8"/>
+Yea, the Proſelytes themſelves had no inheri<g ref="char:EOLhyphen"/>tance, any more then the Patriarchs of old, who were <hi>pilgrims and ſtrangers in that land, looking for a citie whoſe builder and maker is God.</hi> Moreover, if God made a Covenant with Carnaliſts to give them the land of <hi>Ca<g ref="char:EOLhyphen"/>naan,</hi> and gave them a Signe to confirm it to them in their carnality, then God was bound by it to perform the ſame unto them, though they never embraced his ways, but held on in their own wickedneſs. But God threatned to root them out from the land of the living, and did as he ſaid: Therefore Circumciſion did not ſeal unto them the earthly land of <hi>Ca<g ref="char:EOLhyphen"/>naan.</hi>
+               </p>
+            </div>
+            <div type="Anabaptist_argument">
+               <head>The Anabaptiſts Arguments.</head>
+               <p>The Covenant with reſpect to this part, was confirmed upon <hi>Iſaac</hi> the true ſeed of promiſe, proceeding from <hi>Abraham</hi> and <hi>Sarah,</hi> lawful huſ<g ref="char:EOLhyphen"/>band and wife; from which <hi>Iſhmael,</hi> and with him all the car<g ref="char:EOLhyphen"/>nal ſeed were exclu<g ref="char:EOLhyphen"/>ded, <hi>Gen. 17. Gal. 4.</hi> If any ſay, The Cove<g ref="char:EOLhyphen"/>nant being eſtabliſh<g ref="char:EOLhyphen"/>ed with <hi>Iſaac,</hi> it was alſo the ſame to all his ſeed: <hi>Anſw.</hi> Not ſo: the Covenant was eſtabliſhed with <hi>Iſaac</hi> onely, as he was he was the promiſed ſeed, and ſo typed out Chriſt, <hi>Gal. 3.</hi>
+               </p>
+            </div>
+            <div type="Separatist_answer">
+               <head>The Separatiſts Anſwer.</head>
+               <p>If becauſe the Covenant was confirmed and eſtabliſhed with <hi>Iſaac,</hi> therefore <hi>Iſhmael</hi> was exempted before his apoſtacie; then, by the ſame ground, the reſt of <hi>Abrahams</hi> chil<g ref="char:EOLhyphen"/>dren were exempted from this Covenant. But it is to be conſidered, that the Lord, eſtabliſh<g ref="char:EOLhyphen"/>ing the Covenant with <hi>Iſaac,</hi> did therein de<g ref="char:EOLhyphen"/>clare, that all who cleaved unto <hi>Iſaac</hi> in that true way of Worſhip, <hi>God would be their God, and the God of their ſeed for ever.</hi> So that the Covenant was not eſtabliſhed with <hi>Iſaac</hi> onely and alone, but alſo with all thoſe that were members of the viſible Church, which conſiſted both of young and old. God was a God, and Chriſt was a Saviour unto them all in an eſpecial manner, ſo long as they did not apoſtatize: But if any did go from <hi>Iſaac</hi>'s banner, they deprived themſelves of <hi>Iſaac</hi>'s bleſſing.</p>
+               <p>Even ſo it is ſaid concerning <hi>Eliakim</hi> the ſon of <hi>Hilkiah, They ſhall hang upon him all the glory of his fathers houſe, both the off-ſpring and the iſſue, all veſſels of
+<pb facs="tcp:117459:8"/>
+ſmall quantity,</hi> Iſa. 22.24. If any deſpiſe the Infants of believers, becauſe they are veſ<g ref="char:EOLhyphen"/>ſels of [ſmall] quantity, and therefore think them to be no veſſels of God at all; let them conſider, that they are either veſſels of honour, or diſhonour. Veſſels of diſhonour they are not; for they belong to the Kingdom of God: <hi>Suffer them</hi> (ſaith Chriſt) <hi>to come unto me,</hi>
+                  <note place="margin">Mark 10.14.</note> 
+                  <hi>and forbid them not: for of ſuch is the kingdom of heaven.</hi>
+               </p>
+            </div>
+            <div type="Anabaptist_argument">
+               <pb facs="tcp:117459:8"/>
+               <head>The Anabaptiſts Arguments.</head>
+               <p>In whom all the promiſes are yea and amen, and belong to none but onely ſuch as firſt come to him by faith: and ſo ne<g ref="char:EOLhyphen"/>ver any by the Goſpel were baptized, but onely believers.</p>
+            </div>
+            <div type="Separatist_answer">
+               <head>The Separatiſts Anſwer.</head>
+               <p>
+                  <hi>And all the promiſes of God are yea and amen in Chriſt:</hi> ſo the application of them appertains unto none but the members of Chriſt: and thoſe that are not his members, have neither right to him, nor any divine Or<g ref="char:EOLhyphen"/>dinance of his; therefore they muſt not par<g ref="char:EOLhyphen"/>take of the ſame: for God never appointed holy things for dogs, and ſuch as are without the <hi>new Jeruſalem;</hi> but thoſe that keep Gods Commandments, and enter in thorow the gates into the holy City, they are bleſſed, and have right to all the holy things of God, <hi>Rev.</hi> 22.14.</p>
+            </div>
+            <div type="Anabaptist_argument">
+               <head>The Anabaptiſts Arguments.</head>
+               <p>For all types in the Law ceaſed, when the ſubſtance came;</p>
+            </div>
+            <div type="Separatist_answer">
+               <head>The Separatiſts Anſwer.</head>
+               <p>And thoſe who had right to any typical things, had right to the ſubſtance of that thing whenſoever the type of it was taken away: for Chriſt never came to bereave any of the type, and leave them neither ſubſtance nor type. Therefore, ſeeing the Infants of belie<g ref="char:EOLhyphen"/>vers in former times had right to the types, the Infants of believers now have right to what<g ref="char:EOLhyphen"/>ſoever ſubſtance is left in the ſtead thereof.</p>
+               <p>And thoſe who have right to one ſubſtantial Ordinance, have right unto all: Therefore the Infants of believers have as great priviledges as their believing parents: for Chriſt came not to give believing parents the ſubſtance, and to bereave their off-ſpring both of type and
+<pb facs="tcp:117459:9"/>
+ſubſtance; but he came <hi>to fulfil the promiſes made to the fathers, and to confirm them to their children, and their childrens chil<g ref="char:EOLhyphen"/>dren,</hi> thorowout their generations.</p>
+            </div>
+            <div type="Anabaptist_argument">
+               <head>The Anabaptiſts Arguments.</head>
+               <p>and ſo the carnal in<g ref="char:EOLhyphen"/>heritance, the carnal ſeed, and the ſeal, as it reſpects the ſame, all ceaſed together.</p>
+            </div>
+            <div type="Separatist_answer">
+               <head>The Separatiſts Anſwer.</head>
+               <p>To preſume to ſay, that <hi>Circumciſion, the ſigne and ſeal of Gods everlaſting covenant,</hi> was a ſeal of a carnal inheritance, is a carnal affirmation: for as the ſeal was Gods holy Ordinance, ſo it ſealed up an heavenly inheri<g ref="char:EOLhyphen"/>tance, ſpiritual bleſſings, and everlaſting pro<g ref="char:EOLhyphen"/>miſes in Chriſt; and Baptiſm doth the ſame now. The uncircumciſedneſs and carnality of the heart, doth not argue that Gods Ordi<g ref="char:EOLhyphen"/>nance is not ſpiritual: for certainly Gods di<g ref="char:EOLhyphen"/>vine Ordinance is effectual to the receivers, whether they apoſtate or not. If they apo<g ref="char:EOLhyphen"/>ſtate, then it is effectual to their confuſion and damnation; but to thoſe that do not apoſtate, it is effectual to their ſanctification and ſalva<g ref="char:EOLhyphen"/>tion.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
